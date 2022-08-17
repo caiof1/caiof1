@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/caiof1">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=caiof1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiof1&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=caiof1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiof1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
